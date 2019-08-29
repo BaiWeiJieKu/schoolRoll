@@ -1,7 +1,7 @@
 # schoolRoll
 大四java课程设计：学籍管理系统
 
-vue+springboot+jpa
+vue+springboot+jpa+mysql
 
 ![](images/1.png)
 
